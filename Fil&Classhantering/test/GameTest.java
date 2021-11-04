@@ -1,3 +1,4 @@
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import java.util.Scanner;
@@ -26,6 +27,11 @@ class GameTest {
         Add firstAdd = new Add(A, B);
 
         System.out.println(firstAdd + "=" + sum);
+
+
+        Assertions.assertEquals(7,sum);
+        Assertions.assertEquals(5,B);
+        Assertions.assertEquals(2,A);
     }
     @Test
     void hollowRec() {
