@@ -90,7 +90,7 @@ public class Game {
 
 //writes a hollow rectangle
     public void HollowRec() {
-        // use input
+        // user input
         System.out.println("How do you want the rec to look like? ");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter how many rows: ");
@@ -151,7 +151,7 @@ public class Game {
     // just writes out a filled rectangle and prints evey line with 300milliseconds
     public static void Paint() throws InterruptedException {
         System.out.println("\n");
-        for (int i = 0; i <= 10; i++) {
+        for (int i = 0; i <= 5; i++) {
 
             for (int j = 0; j <= 20; j++) {
                 System.out.print("*");

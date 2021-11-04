@@ -13,8 +13,5 @@ public class Main {
         Game.Paint();
         Game.WriteToArray();
 
-
-
-
     }
 }

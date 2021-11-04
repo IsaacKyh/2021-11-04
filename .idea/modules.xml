@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2021-11-04.iml" filepath="$PROJECT_DIR$/.idea/2021-11-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAdventureGame/MyAdventureGame.iml" filepath="$PROJECT_DIR$/MyAdventureGame/MyAdventureGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekerrunt Med skriva/lekerrunt Med skriva.iml" filepath="$PROJECT_DIR$/lekerrunt Med skriva/lekerrunt Med skriva.iml" />
+    </modules>
+  </component>
+</project>
